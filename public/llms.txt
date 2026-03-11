@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Build your self-sufficient homestead with secure chicken coops, guinea fowl housing, and survival gear. Quality products for off-grid living starts here.
+
+### Start Here
+https://example.com/start-here
+New to self-sufficient living? Discover essential chicken coops, livestock gear, and survival equipment to launch your homestead with confidence.
+
+### About
+https://example.com/about
+We&#39;re homesteaders serving homesteaders. Learn how Acre &amp; Able became the trusted source for quality chicken coops and self-reliance equipment.
+
+### Contact
+https://example.com/contact
+Questions about chicken coops, livestock care, or survival gear? Our homesteading experts are ready to help you thrive off the grid. Reach out today.
+
+### Products
+https://example.com/products
+Our Products - Acre & Able
+
+### Cart
+https://example.com/cart
+Your Cart
+
+### Checkout
+https://example.com/checkout
+Checkout
+
+### Login
+https://example.com/login
+Customer Login
+
+### Account
+https://example.com/account
+My Account
+
+### Order Success
+https://example.com/order-success
+Thank you for your order
+
+### Product Detail
+https://example.com/product/:slug
+Product Details - Acre & Able
+
+### Category
+https://example.com/category/:slug
+Products - Acre & Able
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
